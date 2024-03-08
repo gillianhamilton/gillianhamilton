@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gillianhamilton
 - 👀 I’m interested in expanding my abilities in data journalism
-- 🌱 I’m currently refreshing my skills in R, but want to be fluent in R, Stata and Python
-- 💞️ I’m looking to collaborate on economic stories
+- 🌱 I’m currently refreshing my skills in R, but want to be fluent in R, Stata, SAS and Python
+- 💞️ I’m currently in grad school studying economics
 - 📫 How to reach me gillian.hamilton@timesunion.com
 
 <!---
